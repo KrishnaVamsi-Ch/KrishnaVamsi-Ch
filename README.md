@@ -6,21 +6,23 @@
 
 🚀 Passionate Python Developer | 💡 Problem Solver | 🎯 Lifelong Learner
 
-I’m an aspiring Python Developer who loves turning ideas into working code. With a strong foundation in programming and a curiosity-driven mindset, I enjoy building practical, real-world projects that solve meaningful problems. From automation scripts to data tools and API integrations, I’m constantly learning, experimenting, and evolving my skills.
+I'm an aspiring Python Developer who loves turning ideas into working code. I enjoy solving real-world problems through beginner-to-intermediate Python projects that involve APIs, file handling, user input, and more.
 
-🔍 Currently focused on mastering Python, data manipulation, and building beginner-to-intermediate level projects that showcase clean code, logic, and creativity.
+🔍 Currently building out my portfolio with hands-on CLI tools, automation scripts, and API-based apps.
 
 ---
 
 ## 🧰 Tech Toolbox
 
-- 💻 **Languages**: Python, SQL, HTML/CSS (Basics)
-- 🔧 **Tools & Frameworks**: Git, GitHub, Jupyter Notebook, REST APIs
-- 📊 **Learning**: Flask, Pandas, Web APIs, Automation, Web Scraping
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🛠️ Projects Preview
+## 🛠️ My Projects
 
 | Project | Description | Link |
 |--------|-------------|------|
@@ -31,18 +33,27 @@ I’m an aspiring Python Developer who loves turning ideas into working code. Wi
 
 ---
 
-## 🎯 Goals
+## 📊 GitHub Stats
 
-- Build and publish 10+ beginner-intermediate Python projects by next month
-- Collaborate on open-source beginner projects
-- Continuously grow in backend, automation, and data-related domains
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaVamsi-Ch&show_icons=true&theme=github_dark" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KrishnaVamsi-Ch&theme=github-dark&hide_border=false" width="47%" />
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 🎯 Goals
 
-- 💼 [LinkedIn](http://www.linkedin.com/in/krishna-chelluboina)
-- 📧 [krishnavamsichellu@gmail.com](mailto:krishnavamsichellu@gmail.com)
+- 🚀 Build and deploy more automation tools and beginner APIs
+- 🤝 Collaborate on open-source projects
+- 💼 Land a Python-focused role in backend or data
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/krishna-chelluboina)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:krishnavamsichellu@gmail.com)
 
 ---
 
