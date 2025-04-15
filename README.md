@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KrishnaVamsi-Ch/KrishnaVamsi-Ch/main/github_banner.png" alt="Krishna Vamsi Chelluboina Banner" width="100%">
-</p>
-
 # 👋 Hi, I'm Krishna Vamsi Chelluboina
 
 🚀 Passionate Python Developer | 💡 Problem Solver | 🌍 Multilingual Thinker
