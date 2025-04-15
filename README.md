@@ -24,7 +24,7 @@ I’m an aspiring Python Developer who loves turning ideas into working code. Wi
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🎲 **Number Guessing Game** | A fun CLI game with difficulty levels | Coming Soon |
+| 🎲 **Number Guessing Game** | A fun CLI game with difficulty levels | [View Project](https://github.com/KrishnaVamsi-Ch/number-guessing-game) |
 | 🧮 **Calculator App** | Basic calculator using Python functions | Coming Soon |
 | 📋 **To-Do List CLI** | Task manager with file persistence | Coming Soon |
 | ☁️ **Weather API App** | Real-time weather info using OpenWeatherMap API | Coming Soon |
