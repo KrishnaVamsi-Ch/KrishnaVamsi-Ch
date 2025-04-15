@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KrishnaVamsi-Ch/KrishnaVamsi-Ch/main/banner.png" alt="Krishna Vamsi Chelluboina Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Krishna Vamsi Chelluboina
 
 🚀 Passionate Python Developer | 💡 Problem Solver | 🎯 Lifelong Learner
@@ -41,4 +45,5 @@ I’m an aspiring Python Developer who loves turning ideas into working code. Wi
 - 📧 [krishnavamsichellu@gmail.com](mailto:krishnavamsichellu@gmail.com)
 
 ---
-🧠 *“Code is not just what a computer understands. It's what humans understand.”*  
+
+🧠 *“Code is not just what a computer understands. It's what humans understand.”*
