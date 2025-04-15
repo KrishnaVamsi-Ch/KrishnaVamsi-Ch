@@ -1,34 +1,37 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrishnaVamsi-Ch/KrishnaVamsi-Ch/main/github_banner.png" alt="GitHub Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/KrishnaVamsi-Ch/KrishnaVamsi-Ch/main/github_banner.png" alt="Krishna Vamsi Chelluboina Banner" width="100%">
 </p>
 
 # 👋 Hi, I'm Krishna Vamsi Chelluboina
 
-🚀 Passionate Python Developer | 💡 Problem Solver | 🎯 Lifelong Learner
+🚀 Passionate Python Developer | 💡 Problem Solver | 🌍 Multilingual Thinker
 
-I'm an enthusiastic Python Developer who specializes in building clean, real-world tools with Python. From foundational CLI apps to automation and AI-based resume analysis, my GitHub reflects my journey from beginner to ready-for-the-real-world developer.
+I'm a Python Developer who builds real-world tools that go beyond basics — from intelligent resume analyzers to multilingual code explorers. My projects are not just apps — they’re crafted to solve actual problems, help people, and demonstrate engineering creativity.
 
 ---
 
 ## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-TextSimilarity-blueviolet)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Text_Processing-blueviolet)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 🛠️ Real-World AI & Automation Projects
+## 💡 Out-of-the-Box AI & Automation Projects
 
 | Project | Description | Link |
 |--------|-------------|------|
 | 🧠 **AI Resume Analyzer** | NLP-powered tool that analyzes resumes and matches them with job descriptions | [View Project](https://github.com/KrishnaVamsi-Ch/ai-resume-analyzer) |
+| 🌍 **Codebase Storyteller** | AI-powered tool that reads any Python codebase and explains it in your native language — empowering global devs with multilingual code understanding | [View Project](https://github.com/KrishnaVamsi-Ch/codebase-storyteller) |
+
+> 🌟 **Featured Project:** *Codebase Storyteller* breaks the language barrier in software development by combining AI, NLP, and translation — making code accessible to every developer, everywhere.
 
 ---
 
-## 🚀 Foundational Python Projects
+## 🚧 Foundational Learning Projects
 
 | Project | Description | Link |
 |--------|-------------|------|
@@ -39,15 +42,15 @@ I'm an enthusiastic Python Developer who specializes in building clean, real-wor
 
 ---
 
-## 🎯 Goals
+## 🧭 Career Vision
 
-- 🧠 Build 10+ real-world Python tools  
-- 🤝 Contribute to open-source projects  
-- 💼 Land a backend Python or automation-focused role
+- Build 10+ public, real-world Python projects
+- Contribute to open-source automation and AI tools
+- Land a backend or ML engineer role that solves global problems
 
 ---
 
-## 📫 Let's Connect
+## 📡 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-chelluboina)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:krishnavamsichellu@gmail.com)
